@@ -3,6 +3,7 @@
 Part0:
 
 Exercise 4:
+
 browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_notes
 server-->browser: HTML-code (status 302)
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/notes
@@ -26,6 +27,7 @@ that renders notes to display
 end note
 
 Exercise 5:
+
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
 server-->browser: HTML-code
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
@@ -47,6 +49,7 @@ that renders notes to display
 end note
 
 Exercise 6:
+
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
 server-->browser: HTML-code
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
