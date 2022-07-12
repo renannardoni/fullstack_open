@@ -1,4 +1,4 @@
-# fullstack_open
+# fullstack_open [University of Helsinki]
 
 Here you will find my answers to the exercises of the Full Stack open 2022.
 
